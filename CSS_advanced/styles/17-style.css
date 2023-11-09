@@ -441,10 +441,6 @@ a:link {
     color: var(--section-title-color);
 }
 
-.footer {
-    padding: var(--footer-padding);
-}
-
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
@@ -474,4 +470,8 @@ a:link {
     --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
     --footer-padding: 5rem 0 1rem;
+}
+
+.footer {
+    padding: var(--footer-padding);
 }
